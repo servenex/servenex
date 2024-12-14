@@ -1,6 +1,6 @@
 Thanks for downloading this template!
 
-Template Name: ServeNex
-Template URL: https://bootstrapmade.com/ServeNex-free-bootstrap-theme/
+Template Name: Dewi
+Template URL: https://bootstrapmade.com/dewi-free-multi-purpose-html-template/
 Author: BootstrapMade.com
 License: https://bootstrapmade.com/license/
